@@ -21,7 +21,7 @@ namespace CalculaJuros.Api.Controllers
         [SwaggerResponse((int)HttpStatusCode.OK, "Calculo efetuada com sucesso", typeof(double))]
         [SwaggerResponse((int)HttpStatusCode.BadRequest, "Algum erro ocorreu relacionado aos dados da requisição", typeof(string))]
         [SwaggerResponse((int)HttpStatusCode.InternalServerError, "Erro inesperado", typeof(string))]
-        [HttpPost("calculajuros/{valorInicial:int}")]
+        [HttpPost("calculajuros")]
         public async Task<IActionResult> Calcular([FromBody] CalculoModel model, CancellationToken ct)
         {
             var res = await service.Calcular(model, ct);
