@@ -11,7 +11,7 @@ namespace CalculaJuros.Api.Controllers
         [HttpGet("showmethecode")]
         public async Task<IActionResult> Showmethecode()
         {
-            return Ok("https://github.com/lucasgalone/matheducationmobile");
+            return Ok("https://github.com/lucasgalone/softplan");
         }
     }
 }
