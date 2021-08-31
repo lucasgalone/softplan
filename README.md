@@ -39,8 +39,5 @@ docker-compose build
 docker-compose up -d;
 ```
 
-## 📝 Licença
-
-Este projeto esta sobe a licença MIT.
-
-Feito por Lucas Vinicius Galone 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+## 📝 Arquitetura
+Foi construida uma solução onde se tem básicamente a separação de responsabilidades e utilizando a injeção de dependência para manter um desacoplamente da solução.
