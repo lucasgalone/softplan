@@ -36,7 +36,7 @@ Para a execução do projeto basta a execução dos seguintes comandos na pasta 
 docker-compose build
 ```
 ```csharp
-docker-compose up -d;
+docker-compose up -d
 ```
 
 ## 📝 Arquitetura
