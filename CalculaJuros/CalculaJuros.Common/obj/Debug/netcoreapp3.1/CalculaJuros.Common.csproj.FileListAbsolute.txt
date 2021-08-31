@@ -1,0 +1,10 @@
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Common\bin\Debug\netcoreapp3.1\CalculaJuros.Common.deps.json
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Common\bin\Debug\netcoreapp3.1\CalculaJuros.Common.dll
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Common\bin\Debug\netcoreapp3.1\CalculaJuros.Common.pdb
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Common\obj\Debug\netcoreapp3.1\CalculaJuros.Common.csproj.AssemblyReference.cache
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Common\obj\Debug\netcoreapp3.1\CalculaJuros.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Common\obj\Debug\netcoreapp3.1\CalculaJuros.Common.AssemblyInfoInputs.cache
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Common\obj\Debug\netcoreapp3.1\CalculaJuros.Common.AssemblyInfo.cs
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Common\obj\Debug\netcoreapp3.1\CalculaJuros.Common.csproj.CoreCompileInputs.cache
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Common\obj\Debug\netcoreapp3.1\CalculaJuros.Common.dll
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Common\obj\Debug\netcoreapp3.1\CalculaJuros.Common.pdb

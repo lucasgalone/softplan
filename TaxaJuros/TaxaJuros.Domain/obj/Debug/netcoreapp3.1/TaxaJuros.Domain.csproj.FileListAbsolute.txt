@@ -1,0 +1,9 @@
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Domain\bin\Debug\netcoreapp3.1\TaxaJuros.Domain.deps.json
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Domain\bin\Debug\netcoreapp3.1\TaxaJuros.Domain.dll
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Domain\bin\Debug\netcoreapp3.1\TaxaJuros.Domain.pdb
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.AssemblyInfoInputs.cache
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.AssemblyInfo.cs
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.dll
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.pdb

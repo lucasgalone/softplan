@@ -1,0 +1,15 @@
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\bin\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.deps.json
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\bin\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.dll
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\bin\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.pdb
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\bin\Debug\netcoreapp3.1\TaxaJuros.Application.dll
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\bin\Debug\netcoreapp3.1\TaxaJuros.Domain.dll
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\bin\Debug\netcoreapp3.1\TaxaJuros.Application.pdb
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\bin\Debug\netcoreapp3.1\TaxaJuros.Domain.pdb
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\obj\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.csproj.AssemblyReference.cache
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\obj\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\obj\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.AssemblyInfoInputs.cache
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\obj\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.AssemblyInfo.cs
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\obj\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.csproj.CoreCompileInputs.cache
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\obj\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.csproj.CopyComplete
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\obj\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.dll
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Crosscutting\obj\Debug\netcoreapp3.1\TaxaJuros.Crosscutting.pdb

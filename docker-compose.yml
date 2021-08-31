@@ -1,0 +1,39 @@
+version: '3.7'
+
+networks: 
+  api-network:
+    driver: bridge
+
+services: 
+  taxajuros:
+    image: taxajuros
+    hostname: taxajuros
+    build:
+      context: "./"
+      dockerfile: dockerfile-taxajuros
+    container_name: taxajuros
+    networks:
+      - api-network
+    restart: always
+    environment:  
+      - ASPNETCORE_ENVIRONMENT=Development  
+    ports:
+      - "5000:80"
+      - "5001:443"
+  calculajuros:
+    image: calculajuros
+    hostname: calculajuros
+    build:
+      context: "./"
+      dockerfile: dockerfile-calculajuros
+    container_name: calculajuros
+    networks:
+      - api-network
+    restart: always
+    environment:  
+      - ASPNETCORE_ENVIRONMENT=Development  
+    depends_on:
+      - taxajuros 
+    ports:
+      - "7000:80"
+      - "7001:443"

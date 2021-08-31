@@ -1,0 +1,13 @@
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\bin\Debug\netcoreapp3.1\TaxaJuros.Application.deps.json
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\bin\Debug\netcoreapp3.1\TaxaJuros.Application.dll
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\bin\Debug\netcoreapp3.1\TaxaJuros.Application.pdb
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\bin\Debug\netcoreapp3.1\TaxaJuros.Domain.dll
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\bin\Debug\netcoreapp3.1\TaxaJuros.Domain.pdb
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\obj\Debug\netcoreapp3.1\TaxaJuros.Application.csproj.AssemblyReference.cache
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\obj\Debug\netcoreapp3.1\TaxaJuros.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\obj\Debug\netcoreapp3.1\TaxaJuros.Application.AssemblyInfoInputs.cache
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\obj\Debug\netcoreapp3.1\TaxaJuros.Application.AssemblyInfo.cs
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\obj\Debug\netcoreapp3.1\TaxaJuros.Application.csproj.CoreCompileInputs.cache
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\obj\Debug\netcoreapp3.1\TaxaJuros.Application.csproj.CopyComplete
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\obj\Debug\netcoreapp3.1\TaxaJuros.Application.dll
+C:\Users\lvgalone\Desktop\soft\TaxaJuros\TaxaJuros.Application\obj\Debug\netcoreapp3.1\TaxaJuros.Application.pdb

@@ -1,0 +1,15 @@
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\bin\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.deps.json
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\bin\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.dll
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\bin\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.pdb
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\bin\Debug\netcoreapp3.1\CalculaJuros.Application.dll
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\bin\Debug\netcoreapp3.1\CalculaJuros.Infrastructure.dll
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\bin\Debug\netcoreapp3.1\CalculaJuros.Application.pdb
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\bin\Debug\netcoreapp3.1\CalculaJuros.Infrastructure.pdb
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\obj\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.csproj.AssemblyReference.cache
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\obj\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\obj\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.AssemblyInfoInputs.cache
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\obj\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.AssemblyInfo.cs
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\obj\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.csproj.CoreCompileInputs.cache
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\obj\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.csproj.CopyComplete
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\obj\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.dll
+C:\Users\lvgalone\Desktop\soft\CalculaJuros\CalculaJuros.Crosscutting\obj\Debug\netcoreapp3.1\CalculaJuros.Crosscutting.pdb
