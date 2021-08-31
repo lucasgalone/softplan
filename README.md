@@ -10,7 +10,7 @@ Os usuários terão acesso ao swagger pelo link http://localhost:7000/index.html
 A fórmula abaixo representa a formula utilizada na execução do cálculo.
 
 ```csharp
-resultado = valor * (1 + juros) ^ Tempo;
+valor * (1 + juros) ^ Tempo;
 ```
 
 Definições propriedades utilizadas na formula de cálculo.
