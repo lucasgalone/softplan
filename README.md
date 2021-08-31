@@ -5,6 +5,7 @@ e docker-compose.
 
 Os usuários terão acesso ao swagger pelo link http://localhost:7000/index.html, onde poderão:
 - realizar o calculo de juros composto recebendo dois parametros o valor como primeiro parâmetro e o tempo como segundo parâmetro.
+- Obter o link do repository onde se encontra o codigo fonte do projeto.
 
 A fórmula abaixo representa a formula utilizada na execução do cálculo.
 
